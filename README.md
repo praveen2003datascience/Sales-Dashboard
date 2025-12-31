@@ -29,5 +29,5 @@ These projects highlight my ability to:
 ✅ Create visually appealing and interactive dashboards
 ✅ Support data-driven decision making
 
-# Author: Praveen T
+Author: Praveen T
 
