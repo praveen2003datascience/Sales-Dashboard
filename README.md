@@ -1,4 +1,4 @@
-# POWER-BIWORK
+# Sales Dashboard
 Welcome to my Power BI portfolio 🚀 
 What You’ll Find
 
@@ -28,4 +28,6 @@ These projects highlight my ability to:
 ✅ Analyze business data effectively
 ✅ Create visually appealing and interactive dashboards
 ✅ Support data-driven decision making
+
+# Author: Praveen T
 
